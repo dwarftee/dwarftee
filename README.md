@@ -1,16 +1,19 @@
-## Hi there 👋
+ᗪᗯᗩᖇᖴŧ
 
-<!--
-**dwarftee/dwarftee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm dwarfŧ and I have been programming for 4 years.
 
-Here are some ideas to get you started:
+Languages I am fluent in:
+.Python
+.C++
+.Lua
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages I'm confident in/learning:
+.rust
+.assembly
+.c
+.c#
+.swift
+.crystal
+.gleam
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwarftee)](https://github.com/anuraghazra/github-readme-stats)
